@@ -9,7 +9,6 @@
 
 !/exercises
 !/exercises/*
-
 !/.learn
 /.learn/**
 !/.learn/resets
